@@ -1,11 +1,9 @@
-/**
- * Creado por @autor: gabriel
- * El  10 de may. de 2021.
- **/
-public class Consola implements InterfaceMetodosComunes {
+public class Impresora  implements InterfaceMetodosComunes{
+
     /**
-     *Metodos abctractos
-     **/
+     * Metodo para visualizar
+     * @param mensaje
+     */
     @Override
     public void visualizar(String mensaje) {
         System.out.println(mensaje);
