@@ -1,3 +1,4 @@
+
 public class FactoriaS {
     public static final int CONSOLA=1;
     public static final int VENTANA=2;
