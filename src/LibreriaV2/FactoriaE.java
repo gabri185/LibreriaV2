@@ -1,3 +1,5 @@
+package LibreriaV2;
+
 public class FactoriaE {
     public static final int CONSOLA = 1;
     public static final int VENTANA = 2;

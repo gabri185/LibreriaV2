@@ -1,3 +1,5 @@
+package LibreriaV2;
+
 /**
  * Interface que tiene los métodos que son comunes a todas las clases
  */

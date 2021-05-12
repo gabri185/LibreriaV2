@@ -1,3 +1,5 @@
+package LibreriaV2;
+
 import java.util.Scanner;
 
 public class InConsola implements InterfaceMetodosComunes{

@@ -1,3 +1,4 @@
+package LibreriaV2;
 
 public class FactoriaS {
     public static final int CONSOLA=1;

@@ -1,3 +1,5 @@
+package LibreriaV2;
+
 import javax.swing.*;
 
 public class InVentana implements InterfaceMetodosComunes{

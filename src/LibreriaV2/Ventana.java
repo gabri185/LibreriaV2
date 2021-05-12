@@ -1,3 +1,5 @@
+package LibreriaV2;
+
 import javax.swing.*;
 /**
  * Creado por @autor: gabriel

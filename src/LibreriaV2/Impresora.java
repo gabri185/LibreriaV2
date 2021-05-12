@@ -1,3 +1,5 @@
+package LibreriaV2;
+
 public class Impresora  implements InterfaceMetodosComunes{
 
     /**
